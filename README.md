@@ -18,8 +18,9 @@ Add firebase messaging library:
 ```
 
 
-Add this line into biuld.gradle(app):
+Add this lines:
 
+biuld.gradle(app)
 ```
 plugins {
     ...
@@ -27,7 +28,7 @@ plugins {
 }
 ```
 
-And this into biuld.gradle(Project):
+biuld.gradle(Project)
 ```
 plugins {
     ...
