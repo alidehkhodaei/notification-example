@@ -1,5 +1,5 @@
 
-# Send Notification
+# Send Notification Example
 
 Send Notification from one user to another using Firebase
 
