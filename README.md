@@ -60,5 +60,3 @@ Get your Server key from firebase console and put here.
 
 ![App Screenshot](https://github.com/aliprogrammer7/SendNotificationApp/blob/main/Pics/pic1.png)
 
-
-Give me 1 ⭐ if it’s useful.
