@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926361433937",
+    "project_id": "psyched-runner-300814",
+    "storage_bucket": "psyched-runner-300814.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926361433937:android:470b7b9d18c671b9538570",
+        "android_client_info": {
+          "package_name": "com.android.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926361433937-9b8fp47qamma6hm4nmh6oep136h5442f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoJqEoqt-PQujR05pXcarUkN53D4-O5zQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926361433937-9b8fp47qamma6hm4nmh6oep136h5442f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
