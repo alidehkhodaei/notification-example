@@ -5,7 +5,7 @@ Send Notification from one user to another using Firebase
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/aliprogrammer7/SendNotificationApp/main/Pics/pic0.png?token=GHSAT0AAAAAABOQG72YKRQXXCCCPNWVBR5UYRLQYPQ)
+![App Screenshot](https://github.com/aliprogrammer7/SendNotificationExample/blob/main/Pics/pic0.png)
 
 ## Installation
 
@@ -37,12 +37,12 @@ plugins {
 ### Step 2:
 Register your app in firebase console:
 
-![App Screenshot](https://raw.githubusercontent.com/aliprogrammer7/SendNotificationApp/main/Pics/pic3.png?token=GHSAT0AAAAAABOQG72YFG6XSWXY3366YM72YRLQ2QA)
+![App Screenshot](https://raw.githubusercontent.com/aliprogrammer7/SendNotificationApp/main/Pics/pic3.png)
 
 ### Step 3:
 Download and put google-serveces.json into project:
 
-![App Screenshot](https://github.com/aliprogrammer7/SendNotificationApp/blob/main/Pics/pic2.png?raw=true)
+![App Screenshot](https://github.com/aliprogrammer7/SendNotificationApp/blob/main/Pics/pic2.png)
 
 ### Step 4:
 
@@ -57,7 +57,7 @@ Get your Server key from firebase console and put here.
 }
 ```
 
-![App Screenshot](https://github.com/aliprogrammer7/SendNotificationApp/blob/main/Pics/pic1.png?raw=true)
+![App Screenshot](https://github.com/aliprogrammer7/SendNotificationApp/blob/main/Pics/pic1.png)
 
 
 Give me 1 ⭐ if it’s useful.
