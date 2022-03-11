@@ -37,7 +37,7 @@ plugins {
 ### Step 2:
 Register your app in firebase console:
 
-![App Screenshot](https://raw.githubusercontent.com/aliprogrammer7/SendNotificationApp/main/Pics/pic3.png)
+![App Screenshot](https://github.com/aliprogrammer7/SendNotificationExample/blob/main/Pics/pic3.png)
 
 ### Step 3:
 Download and put google-serveces.json into project:
