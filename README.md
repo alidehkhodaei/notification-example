@@ -13,7 +13,7 @@ Send Notification from one user to another using Firebase
 
 Add firebase messaging library:
 
-```
+```gradle
    implementation 'com.google.firebase:firebase-messaging-ktx:23.0.0'
 ```
 
@@ -21,7 +21,7 @@ Add firebase messaging library:
 Add this lines:
 
 biuld.gradle(app)
-```
+```gradle
 plugins {
     ...
     id 'com.google.gms.google-services'
@@ -29,7 +29,7 @@ plugins {
 ```
 
 biuld.gradle(Project)
-```
+```gradle
 plugins {
     ...
     id 'com.google.gms.google-services' version '4.3.10' apply false
@@ -48,7 +48,7 @@ Download and put google-serveces.json into project:
 ### Step 4:
 
 Get your Server key from firebase console and put here.
-```
+```kotlin
  interface ApiService {
     @Headers(
             "Content-Type:application/json",
