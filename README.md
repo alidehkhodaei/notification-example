@@ -1,7 +1,6 @@
+# Simple example of sending a notification
 
-# Send Notification Example
-
-Send Notification from one user to another using Firebase
+Send a notification from one user to another using Firebase.
 
 ## Screenshots
 
